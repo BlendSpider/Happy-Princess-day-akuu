@@ -1,0 +1,476 @@
+{
+  "siteConfig": {
+    "openingUniverseText": "Somewhere in a world full of magic...",
+    "openingInvitationText": "A very special invitation has arrived...",
+    "openingLetterBody": "Dear Akuu,\n\nA little kingdom has been waiting for its most special princess.\nToday, every flower blooms for you, every star shines for you, and every little corner of this world has a surprise waiting.\n\nAre you ready to discover your kingdom?",
+    "castleWelcomeTitle": "Welcome home, Princess Akuu.",
+    "castleWelcomeSubtitle": "Your kingdom is ready. Your adventures are waiting.",
+    "announcementText": "Royal Decree: Today is dedicated entirely to Princess Akuu — may every moment sparkle with warmth, laughter, and magic.",
+    "princessDayMessage": "Happy Princess Day, My Akuu ♡ Every kingdom needs a princess, and mine has always been you. Thank you for making ordinary days feel like a fairytale.",
+    "finalVideoUrl": "",
+    "finalVideoTitle": "A Final Message From Tarun ♡",
+    "themePreset": "blush-royal"
+  },
+  "albums": [
+    {
+      "id": "album-fairytale",
+      "title": "Fairytale Moments",
+      "subtitle": "Chapters of warmth, laughter & quiet magic",
+      "coverUrl": "/src/assets/images/memory_garden_picnic_1794980445125.jpg"
+    },
+    {
+      "id": "album-starlight",
+      "title": "Under Twilight Skies",
+      "subtitle": "Evenings filled with glowing lanterns & promises",
+      "coverUrl": "/src/assets/images/memory_starlight_balcony_1794980444372.jpg"
+    }
+  ],
+  "photos": [
+    {
+      "id": "photo-1",
+      "albumId": "album-fairytale",
+      "title": "Cherry Blossom Tea",
+      "caption": "An afternoon painted in rosewater sunlight, gentle laughter, and petals drifting across the grass.",
+      "date": "Chapter I · Spring",
+      "url": "/src/assets/images/memory_garden_picnic_1794980445125.jpg",
+      "visible": true,
+      "frameStyle": "polaroid"
+    },
+    {
+      "id": "photo-2",
+      "albumId": "album-starlight",
+      "title": "Moonlit Balcony",
+      "caption": "Watching the crescent moon rise above the towers, knowing every star spells out how treasured you are.",
+      "date": "Chapter II · Twilight",
+      "url": "/src/assets/images/memory_starlight_balcony_1794980444372.jpg",
+      "visible": true,
+      "frameStyle": "gold-arch"
+    },
+    {
+      "id": "photo-3",
+      "albumId": "album-fairytale",
+      "title": "The Rose Carriage",
+      "caption": "Every road feels enchanted when it leads to your smile.",
+      "date": "Chapter III · Golden Hour",
+      "url": "/src/assets/images/memory_rose_carriage_1794980444548.jpg",
+      "visible": true,
+      "frameStyle": "pearl-scrapbook"
+    },
+    {
+      "id": "photo-4",
+      "albumId": "album-starlight",
+      "title": "The Secret Castle Keepsake",
+      "caption": "You unlocked the hidden memory box! You can replace this slot anytime from Tarun’s Control Room with our favourite candid snapshot.",
+      "date": "Hidden Memory · Sealed",
+      "url": "/src/assets/images/royal_castle_hero_1794980444296.jpg",
+      "visible": true,
+      "isHiddenBox": true,
+      "frameStyle": "gold-arch"
+    }
+  ],
+  "videos": [
+    {
+      "id": "video-1",
+      "title": "Princess Day Keepsake Reel",
+      "caption": "A velvet screening slot ready for Tarun’s personal video message (upload an MP4 or WebM in the Admin Control Room!).",
+      "date": "Feature Screening",
+      "url": "",
+      "thumbnailUrl": "/src/assets/images/grand_finale_sunset_1794980446163.jpg",
+      "visible": true,
+      "durationLabel": "01:30"
+    }
+  ],
+  "letters": [
+    {
+      "id": "letter-1",
+      "title": "To My Princess Akuu",
+      "date": "Princess Day",
+      "from": "With endless love, Tarun",
+      "body": "My dearest Akuu,\n\nI wanted to build you a place that feels just like you — gentle, luminous, playful, and full of warmth. Whenever life feels busy or loud, remember that you have an entire kingdom here built out of how deeply you are loved.\n\nEvery tiny star, every blooming rose, and every melody inside these castle walls belongs to you.",
+      "sealColor": "#E8C98C"
+    },
+    {
+      "id": "letter-2",
+      "title": "The Things I Adore Most",
+      "date": "Evening Note",
+      "from": "Yours always, Tarun",
+      "body": "It is the way your eyes light up over little thoughtful details, the kindness you carry without even trying, and how simply talking with you turns any ordinary evening into my favourite memory.\n\nNever stop being the magic in my world.",
+      "sealColor": "#F18CAF"
+    },
+    {
+      "id": "letter-secret-1",
+      "title": "A Secret Promise Under the Stars",
+      "date": "Vault Edition",
+      "from": "Tarun ♡",
+      "body": "You explored far enough to unlock this hidden parchment!\n\nPromise: No matter how many seasons pass, I will always keep finding new ways to make you smile, celebrate you, and remind you that you are my once-in-a-lifetime princess.",
+      "isSecret": true,
+      "unlockKeysRequired": 2,
+      "sealColor": "#75476F"
+    }
+  ],
+  "diaryEntries": [
+    {
+      "id": "diary-1",
+      "date": "2026-11-17",
+      "title": "The Day the Kingdom Opened",
+      "content": "Every spire was painted in blush pink and champagne gold, waiting for Akuu to step through the castle gates.",
+      "mood": "Enchanted",
+      "sticker": "crown",
+      "author": "Tarun"
+    },
+    {
+      "id": "diary-2",
+      "date": "2026-11-17",
+      "title": "A Note for Quiet Mornings",
+      "content": "Remember to drink warm tea, pet Mochi the kitten, and never forget how cherished you are every single day.",
+      "mood": "Warm & Cozy",
+      "sticker": "heart",
+      "author": "Tarun"
+    }
+  ],
+  "compliments": [
+    "Your smile turns even the cloudiest afternoon into rosewater sunlight.",
+    "Your kindness makes everyone around you feel quietly safe and treasured.",
+    "The way you get excited about little cute things is the sweetest magic in the world.",
+    "You carry grace without effort and warmth without measure.",
+    "Even in a room full of stars, you are the brightest light there.",
+    "Your laugh is my favourite melody in the entire kingdom.",
+    "You deserve gentleness, patience, and every beautiful fairytale dream.",
+    "Being loved by you feels like coming home to a sunlit castle."
+  ],
+  "audioTracks": [
+    {
+      "id": "track-1",
+      "title": "Starlight Waltz for Akuu",
+      "artist": "Royal Celesta Ensemble",
+      "category": "fairytale",
+      "duration": 180,
+      "synthPreset": "starlight-waltz",
+      "lyrics": "Soft celesta notes drifting over twilight palace towers, composed for Akuu’s arrival."
+    },
+    {
+      "id": "track-2",
+      "title": "Rosewater Reverie",
+      "artist": "Harp & Strings of the Garden",
+      "category": "romantic",
+      "duration": 210,
+      "synthPreset": "rosewater-reverie",
+      "lyrics": "Warm harp arpeggios echoing beside the blooming rosewater fountain."
+    },
+    {
+      "id": "track-3",
+      "title": "Cloud Castle Lullaby",
+      "artist": "Royal Conservatory",
+      "category": "orchestral",
+      "duration": 240,
+      "synthPreset": "cloud-lullaby",
+      "lyrics": "Dreamy strings floating above lavender clouds at sunset."
+    },
+    {
+      "id": "track-4",
+      "title": "Kawaii Tea Party",
+      "artist": "Dollhouse Music Box",
+      "category": "piano",
+      "duration": 150,
+      "synthPreset": "kawaii-tea",
+      "lyrics": "Playful music box sparkles for baking cakes and petting kittens."
+    },
+    {
+      "id": "track-5",
+      "title": "Midnight Garden Rain",
+      "artist": "Moonlight Ambience",
+      "category": "ambient",
+      "duration": 300,
+      "synthPreset": "midnight-rain",
+      "lyrics": "Gentle rainfall over rose petals accompanied by distant wind chimes."
+    }
+  ],
+  "treasureBoxes": [
+    {
+      "id": "box-pink",
+      "name": "The Pink Mystery Box",
+      "themeColor": "#F6B6CE",
+      "keysRequired": 1,
+      "rewardType": "dress",
+      "rewardTitle": "Rosewater Silk Ballgown",
+      "rewardDescription": "A shimmering blush silk gown embroidered with pearl ribbons for your Dressing Room!",
+      "rewardItemId": "rosewater-silk"
+    },
+    {
+      "id": "box-golden",
+      "name": "The Golden Heart Box",
+      "themeColor": "#E8C98C",
+      "keysRequired": 2,
+      "rewardType": "letter",
+      "rewardTitle": "Tarun’s Golden Heart Letter",
+      "rewardDescription": "Unlocks a sealed romantic promise letter inside the Love Library.",
+      "rewardItemId": "letter-secret-1"
+    },
+    {
+      "id": "box-secret",
+      "name": "The Princess Secret Box",
+      "themeColor": "#DCCCFB",
+      "keysRequired": 3,
+      "rewardType": "secret-room",
+      "rewardTitle": "The Secret Starlight Parlor",
+      "rewardDescription": "Grants the Golden Key to open the Mystery Door inside the Royal Palace!",
+      "rewardItemId": "secret-parlor"
+    },
+    {
+      "id": "box-memory",
+      "name": "The Magical Memory Box",
+      "themeColor": "#CDE9FA",
+      "keysRequired": 4,
+      "rewardType": "photo",
+      "rewardTitle": "Moonlit Keepsake Portrait",
+      "rewardDescription": "Reveals an enchanted framed memory inside the Memory Museum.",
+      "rewardImageUrl": "/src/assets/images/memory_starlight_balcony_1794980444372.jpg"
+    },
+    {
+      "id": "box-forever",
+      "name": "The Forever Treasure",
+      "themeColor": "#F18CAF",
+      "keysRequired": 5,
+      "rewardType": "keepsake",
+      "rewardTitle": "Crown of Endless Magic",
+      "rewardDescription": "Unlocks the Imperial Diamond Tiara & special keepsake dedication from Tarun.",
+      "rewardItemId": "imperial-diamond"
+    }
+  ],
+  "achievements": [
+    {
+      "id": "first-steps",
+      "title": "Crown Awakening",
+      "description": "Entered Akuu’s Princess World for the first time.",
+      "rewardStars": 2,
+      "rewardCoins": 50
+    },
+    {
+      "id": "royal-stylist",
+      "title": "Royal Stylist",
+      "description": "Saved a signature look in the Princess Dressing Room.",
+      "rewardStars": 2,
+      "rewardCoins": 40
+    },
+    {
+      "id": "pet-whisperer",
+      "title": "Tender Heart",
+      "description": "Fed and pampered your companion in Kitty Kingdom.",
+      "rewardStars": 2,
+      "rewardCoins": 40
+    },
+    {
+      "id": "rose-keeper",
+      "title": "Keeper of Roses",
+      "description": "Grew a flower to full bloom in the Magical Garden.",
+      "rewardStars": 3,
+      "rewardCoins": 60
+    },
+    {
+      "id": "arcade-spark",
+      "title": "Arcade Starlight",
+      "description": "Completed your first mini-game in the Princess Arcade.",
+      "rewardStars": 2,
+      "rewardCoins": 50
+    },
+    {
+      "id": "arcade-champion",
+      "title": "Queen of the Arcade",
+      "description": "Played 5 different mini-games in the Princess Arcade.",
+      "rewardStars": 5,
+      "rewardCoins": 120
+    },
+    {
+      "id": "treasure-finder",
+      "title": "Vault Opener",
+      "description": "Unlocked your first mystery box in the Treasure Vault.",
+      "rewardStars": 3,
+      "rewardCoins": 80
+    },
+    {
+      "id": "star-gazer",
+      "title": "Constellation Weaver",
+      "description": "Made a heartfelt wish at the Star Observatory.",
+      "rewardStars": 2,
+      "rewardCoins": 45
+    },
+    {
+      "id": "museum-patron",
+      "title": "Curator of Memories",
+      "description": "Explored the Memory Museum exhibition rooms.",
+      "rewardStars": 2,
+      "rewardCoins": 45
+    },
+    {
+      "id": "diary-writer",
+      "title": "Storybook Scribe",
+      "description": "Added a personal entry to the Princess Diary.",
+      "rewardStars": 3,
+      "rewardCoins": 55
+    },
+    {
+      "id": "bakery-chef",
+      "title": "Royal Patissiere",
+      "description": "Decorated a custom cake in the Royal Bakery.",
+      "rewardStars": 2,
+      "rewardCoins": 40
+    },
+    {
+      "id": "world-traveler",
+      "title": "Kingdom Explorer",
+      "description": "Visited at least 12 destinations across the kingdom.",
+      "rewardStars": 6,
+      "rewardCoins": 150
+    },
+    {
+      "id": "secret-seeker",
+      "title": "Starlight Seeker",
+      "description": "Found hidden glowing stars tucked around the palace.",
+      "rewardStars": 4,
+      "rewardCoins": 100
+    },
+    {
+      "id": "finale-witness",
+      "title": "Forever Princess",
+      "description": "Experienced the Grand Surprise Chamber finale.",
+      "rewardStars": 10,
+      "rewardCoins": 250
+    }
+  ],
+  "progress": {
+    "points": 120,
+    "stars": 3,
+    "keys": 2,
+    "coins": 150,
+    "unlockedDresses": [
+      "blush-tulle",
+      "lavender-dream",
+      "champagne-ballgown"
+    ],
+    "unlockedPets": [
+      "mochi-kitten",
+      "snowdrop-bunny",
+      "pip-teddy"
+    ],
+    "unlockedDecorations": [
+      "pearl-lamp",
+      "rose-vase",
+      "velvet-pouf",
+      "tea-cart"
+    ],
+    "unlockedBoxes": [],
+    "unlockedAchievements": [],
+    "visitedDestinations": [],
+    "hiddenStarsFound": [],
+    "gameHighScores": {},
+    "wishes": [
+      {
+        "id": "wish-init",
+        "text": "Always keep smiling with your whole heart, Akuu ♡",
+        "date": "2026-11-17"
+      }
+    ],
+    "avatar": {
+      "dress": "blush-tulle",
+      "tiara": "pearl-crest",
+      "necklace": "heart-locket",
+      "hairstyle": "princess-waves",
+      "shoes": "satin-slippers",
+      "blushTone": "#F6B6CE",
+      "lipTint": "#F18CAF",
+      "pose": "wave",
+      "nameplateTitle": "Princess Akuu"
+    },
+    "pet": {
+      "activePet": "mochi-kitten",
+      "happiness": 88,
+      "hunger": 82,
+      "energy": 90,
+      "accessory": "pink-bow",
+      "isSleeping": false
+    },
+    "dollhouse": {
+      "activeRoom": "bedroom",
+      "wallpapers": {
+        "bedroom": "rosewater-stripe",
+        "tea-parlour": "pearl-damask",
+        "vanity-suite": "lavender-silk",
+        "conservatory": "sky-garden"
+      },
+      "curtainsOpen": {
+        "bedroom": true,
+        "tea-parlour": true,
+        "vanity-suite": true,
+        "conservatory": true
+      },
+      "placedItems": [
+        {
+          "id": "p-1",
+          "room": "bedroom",
+          "itemId": "canopy-bed",
+          "x": 35,
+          "y": 58
+        },
+        {
+          "id": "p-2",
+          "room": "bedroom",
+          "itemId": "pearl-lamp",
+          "x": 75,
+          "y": 62
+        },
+        {
+          "id": "p-3",
+          "room": "tea-parlour",
+          "itemId": "tea-cart",
+          "x": 50,
+          "y": 64
+        }
+      ]
+    },
+    "gardenPlots": [
+      {
+        "id": 0,
+        "seedType": "rose",
+        "stage": 3,
+        "wateredCount": 3
+      },
+      {
+        "id": 1,
+        "seedType": "sakura",
+        "stage": 2,
+        "wateredCount": 2
+      },
+      {
+        "id": 2,
+        "seedType": "lavender",
+        "stage": 1,
+        "wateredCount": 1
+      },
+      {
+        "id": 3,
+        "seedType": "tulip",
+        "stage": 0,
+        "wateredCount": 0
+      },
+      {
+        "id": 4,
+        "seedType": "starflower",
+        "stage": 0,
+        "wateredCount": 0
+      },
+      {
+        "id": 5,
+        "seedType": "rose",
+        "stage": 0,
+        "wateredCount": 0
+      }
+    ],
+    "collectedPetals": 14,
+    "preferences": {
+      "musicVolume": 0.45,
+      "sfxEnabled": true,
+      "reducedMotion": false,
+      "cursorTrail": true
+    }
+  }
+}
